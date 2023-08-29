@@ -11,7 +11,7 @@
       <h1 class="font-bold leading-snug text-[40px] mb-6 lg:leading-snug lg:text-[80px]">
         We're Here To Help You Succeed.
       </h1>
-      <img src="/img/people-in-suits.png" alt="people with suits" >
+      <img src="https://s3.eu-west-2.amazonaws.com/crystallize.com/people-in-suits.png" alt="people with suits" >
       <div class="mt-10 md:mt-[120px] flex flex-col items-center text-center">
         <h2 class="text-3xl font-semibold">We're committed to bringing world-class, passionate professionals together to push new boundaries and greow</h2>
         <p class="text-lg mt-5 max-w-[582px]">We believe in building teams where unique perspectives and talents can thrive and everyone has what they need to excel in their role, career, and at home.</p>

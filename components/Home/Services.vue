@@ -34,7 +34,7 @@
         </div>
         <img
           class="rounded-2xl"
-          src="/img/domicillary.png"
+          src="https://s3.eu-west-2.amazonaws.com/crystallize.com/domicillary.png"
           alt="domicillary care"
         />
       </div>
@@ -50,7 +50,7 @@
         </div>
         <img
           class="rounded-2xl"
-          src="/img/dependable.png"
+          src="https://s3.eu-west-2.amazonaws.com/crystallize.com/dependable.png"
           alt="domicillary care"
         />
       </div>
@@ -66,7 +66,7 @@
         </div>
         <img
           class="rounded-2xl"
-          src="/img/live-in.png"
+          src="https://s3.eu-west-2.amazonaws.com/crystallize.com/live-in.png"
           alt="domicillary care"
         />
       </div>
@@ -82,7 +82,7 @@
         </div>
         <img
           class="rounded-2xl"
-          src="/img/respite.png"
+          src="https://s3.eu-west-2.amazonaws.com/crystallize.com/respite.png"
           alt="domicillary care"
         />
       </div>
@@ -98,7 +98,7 @@
         </div>
         <img
           class="rounded-2xl"
-          src="/img/brokerage.png"
+          src="https://s3.eu-west-2.amazonaws.com/crystallize.com/brokerage.png"
           alt="domicillary care"
         />
       </div>
@@ -107,9 +107,9 @@
       <p class="font-semibold text-primary md:text-lg">Sponsors</p>
       <p class="md:text-2xl font-semibold mt-1">People who believe in us</p>
       <div class="flex flex-wrap gap-6 mt-6">
-        <img class="h-14" src="/img/company1.png" alt="first-company" />
-        <img class="h-14" src="/img/company2.png" alt="first-company" />
-        <img class="h-14" src="/img/company3.png" alt="first-company" />
+        <img class="h-14" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/company1.png" alt="first-company" />
+        <img class="h-14" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/company2.png" alt="first-company" />
+        <img class="h-14" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/company3.png" alt="first-company" />
       </div>
     </div>
   </div>

@@ -30,7 +30,7 @@
       <div class="flex flex-col-reverse md:flex-row items-center justify-between my-20 w-full">
         <div class="mt-24 md:mt-0">
           <nuxt-link to="/">
-            <img class="w-[243px]" src="/img/logo-footer.png" />
+            <img class="w-[243px]" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/logo-footer.png" />
           </nuxt-link>
           <p class="text-light-red/70 text-lg w-full flex flex-col gap-3 max-w-full md:max-w-[310px] mt-6 text-center md:text-left font-medium">
             <span>6 Celtic Farm Road</span>

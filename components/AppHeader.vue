@@ -2,7 +2,7 @@
   <div class="fixed right-0 left-0 font-medium text-black/70 z-10" :class="scrolled ? 'bg-neutral' : 'bg-transparent'">
     <div class="flex h-24 md:h-[120px] items-center justify-between px-4 px-md-0 text-neutral-2 w-full max-w-[1240px] mx-auto">
       <nuxt-link to="/">
-        <img class="w-[135px] h-[40px]" src="/img/logo.png" />
+        <img class="w-[135px] h-[40px]" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/logo.png" />
       </nuxt-link>
       <button ref="hamburger" class="lg:hidden" @click="open = !open">
         <Icon name="ic:round-menu" size="24px" color="#FFF" />

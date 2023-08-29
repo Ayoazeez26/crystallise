@@ -20,7 +20,7 @@
       <div
         class="flex justify-center md:justify-start flex-wrap mt-10"
       >
-        <img src="/img/serve-bg.png" alt="doctor attending to aged man">
+        <img src="https://s3.eu-west-2.amazonaws.com/crystallize.com/serve-bg.png" alt="doctor attending to aged man">
       </div>
     </div>
     <div id="services" />

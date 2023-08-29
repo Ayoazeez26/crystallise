@@ -8,9 +8,9 @@
         <p class="font-semibold text-primary md:text-lg">Sponsors</p>
         <p class="md:text-2xl font-semibold mt-1">People who believe in us</p>
         <div class="flex flex-col items-center md:flex-row flex-wrap gap-4 md:gap-6 mt-6">
-          <img class="h-[85px] md:h-14" src="/img/company1.png" alt="first-company">
-          <img class="h-[85px] md:h-14" src="/img/company2.png" alt="first-company">
-          <img class="h-[85px] md:h-14" src="/img/company3.png" alt="first-company">
+          <img class="h-[85px] md:h-14" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/company1.png" alt="first-company">
+          <img class="h-[85px] md:h-14" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/company2.png" alt="first-company">
+          <img class="h-[85px] md:h-14" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/company3.png" alt="first-company">
         </div>
       </div>
     </div>

@@ -2,7 +2,7 @@
   <div class="fixed right-0 left-0 font-medium bg-transparent text-black/70 z-10">
     <div class="bg-light-red my-6 flex h-24 rounded-2xl md:h-20 items-center justify-between px-4 md:px-10 text-white lg:text-grey-2 w-full max-w-[1240px] mx-auto">
       <nuxt-link to="/">
-        <img class="w-[135px] h-[40px]" src="/img/team-logo.png" />
+        <img class="w-[135px] h-[40px]" src="https://s3.eu-west-2.amazonaws.com/crystallize.com/team-logo.png" />
       </nuxt-link>
       <button ref="hamburger" class="lg:hidden" @click="open = !open">
         <Icon name="ic:round-menu" size="24px" color="#800020" />

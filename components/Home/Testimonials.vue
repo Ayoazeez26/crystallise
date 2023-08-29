@@ -88,10 +88,10 @@ const resetBtnValues = () => {
             class="flex flex-col justify-between rounded-lg pr-6 w-full md:w-[397px]"
           >
             <div class="relative max-w-fit">
-              <img class="w-[64px]" :src="`/img/${service.image}.png`" />
+              <img class="w-[64px]" :src="`https://s3.eu-west-2.amazonaws.com/crystallize.com/${service.image}.png`" />
               <img
                 class="absolute -right-3 top-5 w-6"
-                src="/img/quotes.png"
+                src="https://s3.eu-west-2.amazonaws.com/crystallize.com/quotes.png"
                 alt="quotes"
               />
             </div>
